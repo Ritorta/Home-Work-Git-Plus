@@ -1,11 +1,5 @@
 
 
-import controller.CalculatorController;
-import data.Calculator;
-import data.CalculatorLogic;
-import service.CalculatorLoger;
-import service.CalculatorService;
-import view.CalculatorView;
 // Thes's is Main
 class Main
 {
