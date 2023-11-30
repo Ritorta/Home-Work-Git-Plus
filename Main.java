@@ -6,6 +6,12 @@
 // Примечание: Можно выбрать другой язык программирования, например C# или Python, если выбран язык, отличный от JAVA, 
 // но тогда необходимо написать документ, каким образом можно запустить приложение (что необходимо установить, каким образом запускать и т.п.).
 
+import controller.CalculatorController;
+import data.Calculator;
+import data.CalculatorLogic;
+import service.CalculatorLoger;
+import service.CalculatorService;
+import view.CalculatorView;
 // Thes's is Main
 class Main
 {
